@@ -7,3 +7,5 @@
 - 👯 **I’m looking to collaborate on Java & Go open-source projects**
 - ⚡ **Fun fact: If I’m not coding, you’ll probably find me gaming or playing badminton**
 - 😄 **Pronouns: he/him**
+
+![snake](https://raw.githubusercontent.com/misakacoder/misakacoder/snake/github-contribution-grid-snake.svg)
