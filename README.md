@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=misakacoder&count_private=true&card_width=250" />
+<img align="right" alt="GIF" src="github-readme-stats-eight-theta.vercel.app/api?username=misakacoder&count_private=true&card_width=250" />
 
 ### Hi 👋 I'm misakacoder
 
